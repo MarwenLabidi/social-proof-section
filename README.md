@@ -1,2 +1,2 @@
 ## Welcome to the 
-# [Project link](https://marwenez.github.io/social-proof-section/)
+# [Project link](https://marwenlabidi.github.io/social-proof-section/)
